@@ -41,3 +41,7 @@ the data from the old competition as well as this competition. Final result was 
 - Converting to regression problem (didnt gave better results)
 - Preprocessing using Circle Crop
 - Experimenting with LR scheduler
+
+
+### Published Kernels 
+https://www.kaggle.com/modojj/densenet121-and-cropping-aptos-2019 (published during competition, simple baseline model) 
