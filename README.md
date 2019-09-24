@@ -2,7 +2,7 @@
 The repository contains the description of the basic methodology used to build a model that could correctly predict the severity of **Diabetic Retinopathy** on a scale from 0-4. Originally completed as a Kaggle competition.
 ### APTOS 2019 Blindness Detection - Kaggle
 Competition link [APTOS 2019 Blindness Detection](https://www.kaggle.com/c/aptos2019-blindness-detection)
-### Competition Results - 116th/2987 | top 4% | Silver medal
+### Competition Results - 108th/2943 | top 4% | Silver medal
 ### Overview 
 - API : KERAS
 - Model used - EfficientNet pretrained on Imagenet
@@ -45,3 +45,6 @@ the data from the old competition as well as this competition. Final result was 
 
 ### Published Kernels 
 https://www.kaggle.com/modojj/densenet121-and-cropping-aptos-2019 (published during competition, simple baseline model) 
+
+### kaggle profile 
+https://www.kaggle.com/modojj
