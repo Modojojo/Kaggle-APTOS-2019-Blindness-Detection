@@ -1,0 +1,5 @@
+Download the file from here - https://www.kaggle.com/ratan123/install
+install efficient net using pip :
+pip install -U '../input/install/efficientnet-0.0.3-py2.py3-none-any.whl'
+
+efficientnet keras pretrained weights - https://kaggle.com/ratthachat/efficientnet-keras-weights-b0b5
