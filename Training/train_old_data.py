@@ -117,6 +117,7 @@ callback_list = [es, rlrop]
 
 n_batches = 10
 image_index = 0
+gen_batch_size = 3512
 for loop_batch in range(9):
     images = np.empty((gen_batch_size,300,300,3), dtype = np.uint8)
     curr_labels = train_labels[image_index : image_index+gen_batch_size]
