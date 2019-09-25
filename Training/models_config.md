@@ -45,7 +45,7 @@
    * 90% training data and 10% validation data
    * preprocessing - Cropping (crop_from_gray)
 * Added TTA on test data
-#### Model2 Performance
+#### Model 2 Performance
 * Training Accuracy around 94%
 * validation accuracy around 94.5%
 * Leaderboard score - Public : 0.790   Private : 0.912
@@ -65,7 +65,7 @@
    * 90% training data and 10% validation data
    * preprocessing - Cropping (crop_from_gray)
 * Added TTA on test data
-#### Model2 Performance
+#### Model 3 Performance
 * Training Accuracy around 95%
 * validation accuracy around 96%
 * Leaderboard score - Public : 0.801   Private : 0.917
@@ -82,7 +82,7 @@
    * Learning Rate : 5e-5
    * 90% training data and 10% validation data
    * No preprocessing
-#### Model2 Performance
+#### Model 4 Performance
 * Training Accuracy around 94%
 * validation accuracy around 93%
 * Leaderboard score - Public : 0.797   Private : 0.914
@@ -99,7 +99,7 @@
    * Learning Rate : 5e-5 
    * 90% training data and 10% validation data
    * No preprocessing
-#### Model2 Performance
+#### Model 5 Performance
 * Training Accuracy around 96%
 * validation accuracy around 94%
 * Leaderboard score - Public : 0.794   Private : 0.915
