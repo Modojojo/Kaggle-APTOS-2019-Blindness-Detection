@@ -5,7 +5,7 @@ Competition link [APTOS 2019 Blindness Detection](https://github.com/Modojojo/Ka
 ### Competition Results - 108th/2943 | top 4% | Silver medal
 ### Overview 
 - API : KERAS
-- Model used - EfficientNet pretrained on Imagenet
+- Model used - EfficientNet pretrained on Imagenet [(EfficientNet installation)](https://github.com/Modojojo/Kaggle-APTOS-2019-Blindness-Detection/blob/master/Training/Efficientnet%20installation.md)
 - [Data](https://github.com/Modojojo/Kaggle-APTOS-2019-Blindness-Detection/blob/master/Training/data.md) - Using the Competition data and the old competition data (2015 competition data)
 - Primarily Trained on 2015 competition data
 - Validated on 2019 Data and then trained on the same
