@@ -1,0 +1,2 @@
+Training pipeline - 
+Firstly train on the old data -> train on new data -> ensemble models -> prediction
