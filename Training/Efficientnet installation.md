@@ -1,5 +1,6 @@
 ## EfficientNet installation : 
-#### Download the file from here - <https://www.kaggle.com/ratan123/install> <br/>install efficient net using pip :
+#### Download the file from here - <https://www.kaggle.com/ratan123/install>
+#### Install efficient net using pip :
 ~~~~
 'pip install -U 'efficientnet-0.0.3-py2.py3-none-any.whl'
 ~~~~
